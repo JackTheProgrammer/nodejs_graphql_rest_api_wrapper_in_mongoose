@@ -1,0 +1,16 @@
+{
+  "name": "rest_wrapped_in_graphql",
+  "version": "1.0.0",
+  "description": "Wrapping custom made REST-API in GraphQL.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fawad Awan",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-datasource-rest": "^3.6.1",
+    "apollo-server": "^3.10.0",
+    "axios": "^0.27.2"
+  }
+}
